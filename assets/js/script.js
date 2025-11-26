@@ -42,7 +42,6 @@ form.addEventListener('submit', function(e) {
     phoneError.textContent = "";
   }
 
-  
     //  MESSAGE VALIDATION
   
   const message = document.getElementById('message').value.trim();
